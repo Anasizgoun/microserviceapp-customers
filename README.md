@@ -2,3 +2,5 @@
 ![billing Facture listing](https://github.com/user-attachments/assets/ec76f4e2-8573-4e13-a89b-d045fcfd3e8e)
 ![billing Product listing](https://github.com/user-attachments/assets/b5662177-0ba3-4e90-b213-d146c38c8126)
 ![gateway avec customers](https://github.com/user-attachments/assets/d4896ca8-14fd-481f-b516-deb6aa19104d)
+![inventory 8282 ms product api](https://github.com/user-attachments/assets/97f65c95-d0a4-4783-b8bc-035f07fb9384)
+![Capture d'écran 2025-02-14 133944](https://github.com/user-attachments/assets/2eb1cd64-5317-4a49-8f86-b4f10b9005df)
